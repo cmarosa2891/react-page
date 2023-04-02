@@ -1,0 +1,8 @@
+{
+  "projectName": "react-page",
+  "meta": {
+    "type": "frontend"
+  },
+  "packageManager": "yarn",
+  "hash": "975cd2b5"
+}
